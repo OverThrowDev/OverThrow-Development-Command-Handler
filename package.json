@@ -1,7 +1,7 @@
 {
-  "name": "shitpost",
+  "name": "overthrow-development",
   "version": "0.1.0",
-  "description": "A shiitty discord bot.",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
