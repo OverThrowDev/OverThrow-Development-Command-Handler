@@ -1,0 +1,30 @@
+{
+  "name": "shitpost",
+  "version": "0.1.0",
+  "description": "A shiitty discord bot.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OverThrowDev/shitpost"
+  },
+  "author": "OverThrow Development",
+  "contributors": [
+    "William Strong",
+    "Tyler"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OverThrowDev/shitpost/issues"
+  },
+  "homepage": "https://shitpost.overthrowdev.com/",
+  "dependencies": {
+    "discord.js": "^11.6.3",
+    "fs": "^0.0.2"
+  }
+}
